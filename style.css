@@ -1,0 +1,23 @@
+@media screen and (min-width: 968px) {
+    .header,
+    .main,
+    .footer__container {
+      padding: 0;
+    }
+  
+    .home__blob {
+      width: 280px;
+    }
+  
+    .home__title {
+      font-size: 37px;
+    }
+  
+    .home__social {
+      transform: translateX(-6rem);
+    }
+  
+    .button--white {
+      bottom: -4.5rem;
+    }
+  }
